@@ -33,4 +33,4 @@ document.querySelectorAll(".nav-links a").forEach(link => {
 
 const footer = document.querySelector("footer p");
 
-footer.innerHTML = `© ${new Date().getFullYear()} NEXORA DIGITAL. Tous droits réservés.`;
+footer.innerHTML = `© ${new Date().getFullYear()} Master The Business. Tous droits réservés.`;
